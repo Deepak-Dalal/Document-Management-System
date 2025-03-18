@@ -4,10 +4,6 @@
 
 This is a backend API for a Document Management System built using Node.js, Express.js, Sequelize, and Supabase PostgreSQL. It provides RESTful endpoints for managing folders and files, including CRUD operations, metadata retrieval, and file sorting.
 
-### Live Deployment
-
-[View Live API](#)
-
 ### Postman APIs Testing Screenshots
 
 The API has been tested with Postman, and testing screenshots are included. [Screenshots](#testing-with-postman)
@@ -26,7 +22,6 @@ The API has been tested with Postman, and testing screenshots are included. [Scr
 - **Sequelize** (ORM for PostgreSQL)
 - **Supabase PostgreSQL** (Database)
 - **Multer** (Middleware for file uploads)
-- **Vercel** (Deployment)
 
 ## API Endpoints
 
@@ -87,7 +82,6 @@ The API has been tested with Postman, and testing screenshots are included. [Scr
      DB_NAME=your_db_name
      DB_HOST=your_db_host
      DB_PORT=your_db_port
-     DIALECT=postgres
      PORT=your_port_number
      ```
 5. Run database migrations:
