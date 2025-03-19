@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a backend API for a Document Management System built using Node.js, Express.js, Sequelize, and Supabase PostgreSQL. It provides RESTful endpoints for managing folders and files, including CRUD operations, metadata retrieval, and file sorting.
+This is a backend APIs service for a Document Management System built using Node.js, Express.js, Sequelize, and Supabase PostgreSQL. It provides RESTful endpoints for managing folders and files, including CRUD operations, metadata retrieval, and file sorting.
 
 ### Postman APIs Testing Screenshots
 
