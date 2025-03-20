@@ -63,11 +63,11 @@ The API has been tested with Postman, and testing screenshots are included. [Scr
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Deepak-Dalal/document-management-api.git
+   git clone https://github.com/Deepak-Dalal/Document-Management-System.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd document-management-api
+   cd Document-Management-System
    ```
 3. Install dependencies:
    ```sh
