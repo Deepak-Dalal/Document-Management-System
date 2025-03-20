@@ -63,7 +63,7 @@ The API has been tested with Postman, and testing screenshots are included. [Scr
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/document-management-api.git
+   git clone https://github.com/Deepak-Dalal/document-management-api.git
    ```
 2. Navigate to the project directory:
    ```sh
